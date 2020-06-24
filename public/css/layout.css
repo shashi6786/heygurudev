@@ -1090,11 +1090,11 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 30px;
 }
 .social .btn{
-   padding-left: 30px;
-   padding-right: 30px; 
+   padding-left: 20px;
+   padding-right: 20px;
 }
 .social .btn i{
-   margin-right: 15px;
+   margin-right: 5px;
 }
 .project-btn{
    background-color: #1abc9c !important;
