@@ -1,0 +1,200 @@
+{
+  "main": {
+    "name":"Shashi Bhushan",
+    "description":"I am a software development engineer and I use Java, Spring, REST APIs, Springboot, python, cloud technologies, react, angular and other javascript based frameworks to develop apps, services. This is a portfolio project that can be used as resume",
+    "image":"profilepic.jpg",
+    "bio":"Hands on Java Developer & AWS Certified Solutions Architect ( Core Java, REST/SOAP Web-services, Multi-threading, JPA, ORM, Spring-boot and other frameworks) with experience of designing and building highly scalable and fault tolerant APIs in a distributed systems on a cloud infrastructure (AWS or Azure). Very much comfortable with PL/SQL. With the world moving towards automation, AI , IOT etc, I really fantasize the charm these buzz words have brought into this Industry and the way it has opened up a plethora of innovation opportunities. My curiosity in this field makes me a \"Beginner in Machine Learning and Big Data\".",
+    "contactmessage":"Here is where you should write your message to Guru Dev to have him get in contact with you.",
+    "email": "findshashihere@gmail.com",
+    "phone": "814-881-9296",
+    "github":"https://github.com/shashi6786/me",
+    "project":"https://github.com/shashi6786/me",
+    "address":{
+      "street":"24693 Ravine Cir",
+      "city":"Farmington Hills",
+      "state":"Michigan",
+      "zip": "48335"
+    },
+    "website": "https://www.linkedin.com/in/findshashihere/",
+    "resumedownload":"https://www.linkedin.com/in/findshashihere/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/findshashihere",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/shashisastra",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/findshashihere/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/sassyshashi/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/shashi6786/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"SASTRA University",
+        "degree":"Bachelor of Technology (B.Tech.) in Computer Science Engineering",
+        "graduated":"May 2011",
+        "batch":"2007-2011",
+        "description":""
+      },
+      {
+        "school":"Patna Science College",
+        "degree":"Senior Secondary (+2) in Mathematics & Science as major",
+        "graduated":"March 2007",
+        "batch":"2005-2007",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Systems Technology Group, Inc. (STG)",
+        "title":"Software Developer Technical Lead",
+        "years":"July 2019 - Present",
+        "description":"Ford Motor Company is going through a digital transformation and building subscription-based services REST APIs which are made available to the customers (vehicle owners) across world for various products (ex: Live Traffic, Smart Charge, Plug & Charge) through a product catalog. The catalogs are unique for each country based of what type of vehicles are launched in those regions. These features & subscriptions need to be activated on those vehicles Over the Air instantly by provisioning the actual feature through Modem present on vehicle. Handling payment for the subscriptions through Ford-Pay wallet."
+      },
+      {
+        "company":"Tata Consultancy Services",
+        "title":"Senior Java Developer",
+        "years":"Sep 2011 - July 2019",
+        "description":"GE Transportation, a Wabtec Company - building the software on Predix platform (cloud-based Platform-as-a-Service (PaaS) for the Industrial Internet). Converted a monolithic application into microservices to lead the digital transformation. Building and maintaining the “e-Services”, a web application with monolithic architecture using JSP, Servlets, Spring 2 and Java 6 to serve users across globe with various services related to locomotive management and handling hassle of daily service repair floor activities. I worked with customer to do infrastructure migration as well as the real-time integration on the inbound and outbound process. Also, initiated a lot of digital transformation in team."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"100%"
+      },
+      {
+        "name":"Springboot",
+        "level":"90%"
+      },
+      {
+        "name":"Microservices",
+        "level":"90%"
+      },
+      {
+        "name":"Spring",
+        "level":"90%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"90%"
+      },
+      {
+        "name":"Distributed Systems",
+        "level":"80%"
+      },
+      {
+        "name":"Cloud Architecture",
+        "level":"70%"
+      },
+      {
+        "name":"Front end (JS, React, Angular)",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    ]
+  },
+  "certification":{
+    "skillmessage":"Here you can create a short write-up of your industry certifications to show off to employers",
+    "certificates":[
+      {
+        "name":"AWS Certified Solutions Architect - Associate",
+        "issuing_organization":"Amazon Web Services (AWS)",
+        "issue_date":"May 2019",
+        "credential_id":"GQQEZN5CLBR11K51",
+        "credential_url":"http://aws.amazon.com/verification"
+      },
+      {
+        "name":"Certified Python Programmer - Associate",
+        "issuing_organization":"Python Institute",
+        "issue_date":"Apr 2020",
+        "credential_id":"",
+        "credential_url":"https://www.youracclaim.com/badges/76192ffa-f614-4504-913f-aaf27a9c4905/linked_in_profile"
+      },
+      {
+        "name":"Certified Advanced Google Analytics - Associate",
+        "issuing_organization":"Google",
+        "issue_date":"Apr 2020",
+        "credential_id":"",
+        "credential_url":"https://skillshop.exceedlms.com/student/award/49462575"
+      },
+      {
+        "name":"Oracle Cloud Infrastructure Certified - Associate",
+        "issuing_organization":"Oracle",
+        "issue_date":"May 2020",
+        "credential_id":"",
+        "credential_url":"https://www.youracclaim.com/badges/ca731a18-318d-420e-9680-d2092071700e/linked_in_profile"
+      }
+    ],
+    "work":[
+      {
+        "company":"Systems Technology Group, Inc. (STG)",
+        "title":"Software Developer Technical Lead",
+        "years":"July 2019 - Present",
+        "description":"Ford Motor Company is going through a digital transformation and building subscription-based services REST APIs which are made available to the customers (vehicle owners) across world for various products (ex: Live Traffic, Smart Charge, Plug & Charge) through a product catalog. The catalogs are unique for each country based of what type of vehicles are launched in those regions. These features & subscriptions need to be activated on those vehicles Over the Air instantly by provisioning the actual feature through Modem present on vehicle. Handling payment for the subscriptions through Ford-Pay wallet."
+      },
+      {
+        "company":"Tata Consultancy Services",
+        "title":"Senior Java Developer",
+        "years":"Sep 2011 - July 2019",
+        "description":"GE Transportation, a Wabtec Company - building the software on Predix platform (cloud-based Platform-as-a-Service (PaaS) for the Industrial Internet). Converted a monolithic application into microservices to lead the digital transformation. Building and maintaining the “e-Services”, a web application with monolithic architecture using JSP, Servlets, Spring 2 and Java 6 to serve users across globe with various services related to locomotive management and handling hassle of daily service repair floor activities. I worked with customer to do infrastructure migration as well as the real-time integration on the inbound and outbound process. Also, initiated a lot of digital transformation in team."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"100%"
+      },
+      {
+        "name":"Springboot",
+        "level":"90%"
+      },
+      {
+        "name":"Microservices",
+        "level":"90%"
+      },
+      {
+        "name":"Spring",
+        "level":"90%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"90%"
+      },
+      {
+        "name":"Distributed Systems",
+        "level":"80%"
+      },
+      {
+        "name":"Cloud Architecture",
+        "level":"70%"
+      },
+      {
+        "name":"Front end (JS, React, Angular)",
+        "level":"40%"
+      }
+    ]
+  }
+}
