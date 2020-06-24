@@ -67,14 +67,16 @@
       {
         "company":"Systems Technology Group, Inc. (STG)",
         "title":"Software Developer Technical Lead",
+        "techstack": "Java, PCF, Spring, Springboot, JPA, JUnit, Mockito, TDD, Agile, Pair Programming, Zuora, Azure, AWS, Python, React, Angular, AEM, Rally, JIRA, Splunk, Dynatrace",
         "years":"July 2019 - Present",
         "description":"Client - Ford Motor Company is going through a digital transformation. Ford's Subscription Services Platform is the global and integrated set of subscription & payment capabilities designed to support Ford’s mobility and digital service offerings. The platform seeks to ensure consistent, intuitive subscription management experiences across all channels and regions where mobility products are sold. As a Software Developer Technical Lead, I help the team in achieving these targets by building microservices to manage end to end subscription offering, creation, payment, renewal, cancellation, refund etc., which are made available to the customers (vehicle owners) across EU21 countries, USA, Mexico, China, Australia etc. for various products (ex: Live Traffic, Connected Vehicle Navigation, Plug & Charge) through a product catalog. These features are activated on those vehicles Over the Air by provisioning the actual feature through Modem present on vehicle. I also provide stakeholders with reporting key insights and business value metrics generated to drive evidence-based decision making."
       },
       {
         "company":"Tata Consultancy Services",
         "title":"Senior Java Developer",
+        "techstack": "Java, AWS, Predix, Spring, Springboot, JPA, Scalr, JUnit, TDD, Agile, Oracle, PL/SQL, Solr, Zookeeper, Angular, CSS, Javascript ES6, Jasmine, Mockito, Rally, JIRA, AppDynamics, NewRelic, Splunk",
         "years":"Sep 2011 - July 2019",
-        "description":"GE Transportation, a Wabtec Company - building the software on Predix platform (cloud-based Platform-as-a-Service (PaaS) for the Industrial Internet). Converted a monolithic application into microservices to lead the digital transformation. Building and maintaining the “e-Services”, a web application with monolithic architecture using JSP, Servlets, Spring 2 and Java 6 to serve users across globe with various services related to locomotive management and handling hassle of daily service repair floor activities. I worked with customer to do infrastructure migration as well as the real-time integration on the inbound and outbound process. Also, initiated a lot of digital transformation in team."
+        "description":"Client - GE Transportation, a Wabtec Company. Wabtec sells locomotive to customers like BNSF Railways, Indian Railways etc. eServices is a one stop solution to all shop floor management activities and keeps all contract details. As a part of this platform team, I created microservices which were consumed by B2C/B2B customers for handling the complete life cycle of a locomotive . The application also handles hassle of daily service repair and floor activities, like CRUD operation on \"tasks\", \"materials\",\"accounts\",\"reporting\" etc. I also worked with customer to do infrastructure migration to AWS cloud as well as the real-time integration on the inbound and outbound processes. Also, initiated a lot of digital transformation in team."
       }
     ],
     "skills":[

@@ -34,7 +34,7 @@ class Contact extends Component {
 
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form method="post" id="contactForm" name="contactForm" data-netlify="true">
 
 					<fieldset>
 
