@@ -14,7 +14,6 @@ class Certificates extends Component {
   render() {
 
     if(this.props.data){
-      var skillmessage = this.props.data.skillmessage;
       var certificate = this.props.data.certificates.map(function(certificates){
         return <div key={certificates.name}><h4>{certificates.name}</h4>
         <p className="info">{certificates.issuing_organization} <span>&bull;</span><em className="date">{certificates.issue_date}</em></p>
