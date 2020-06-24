@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Shashi Bhushan",
-    "description":"I am a software development engineer and I use Java, Spring, REST APIs, Springboot, python, cloud technologies, react, angular and other javascript based frameworks to develop apps, services. This is a portfolio project that can be used as resume",
+    "description":"I am a software development engineer who loves problem solving and data structures. I use Java, Spring, REST APIs, Springboot, python, cloud technologies, react, angular and other javascript based frameworks to develop apps, services. Continuos learning and growth is something i strive for. This is my portfolio project which can be used as resume",
     "image":"profilepic.jpg",
     "bio":"Hands on Java Developer & AWS Certified Solutions Architect ( Core Java, REST/SOAP Web-services, Multi-threading, JPA, ORM, Spring-boot and other frameworks) with experience of designing and building highly scalable and fault tolerant APIs in a distributed systems on a cloud infrastructure (AWS or Azure). Very much comfortable with PL/SQL. With the world moving towards automation, AI , IOT etc, I really fantasize the charm these buzz words have brought into this Industry and the way it has opened up a plethora of innovation opportunities. My curiosity in this field makes me a \"Beginner in Machine Learning and Big Data\".",
     "contactmessage":"Here is where you should write your message to Guru Dev to have him get in contact with you.",
@@ -68,7 +68,7 @@
         "company":"Systems Technology Group, Inc. (STG)",
         "title":"Software Developer Technical Lead",
         "years":"July 2019 - Present",
-        "description":"Ford Motor Company is going through a digital transformation and building subscription-based services REST APIs which are made available to the customers (vehicle owners) across world for various products (ex: Live Traffic, Smart Charge, Plug & Charge) through a product catalog. The catalogs are unique for each country based of what type of vehicles are launched in those regions. These features & subscriptions need to be activated on those vehicles Over the Air instantly by provisioning the actual feature through Modem present on vehicle. Handling payment for the subscriptions through Ford-Pay wallet."
+        "description":"Client - Ford Motor Company is going through a digital transformation. Ford's Subscription Services Platform is the global and integrated set of subscription & payment capabilities designed to support Ford’s mobility and digital service offerings. The platform seeks to ensure consistent, intuitive subscription management experiences across all channels and regions where mobility products are sold. As a Software Developer Technical Lead, I help the team in achieving these targets by building microservices to manage end to end subscription offering, creation, payment, renewal, cancellation, refund etc., which are made available to the customers (vehicle owners) across EU21 countries, USA, Mexico, China, Australia etc. for various products (ex: Live Traffic, Connected Vehicle Navigation, Plug & Charge) through a product catalog. These features are activated on those vehicles Over the Air by provisioning the actual feature through Modem present on vehicle. I also provide stakeholders with reporting key insights and business value metrics generated to drive evidence-based decision making."
       },
       {
         "company":"Tata Consultancy Services",
