@@ -9,7 +9,6 @@ class Header extends Component {
        var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
-      var city= this.props.data.address.city;
     }
 
     return (
