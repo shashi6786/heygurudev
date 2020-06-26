@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
 
     if(this.props.data){
-       var project = this.props.data.project;
+       var medium = this.props.data.medium;
        var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
@@ -34,7 +34,7 @@ class Header extends Component {
             <h3>{description}.</h3>
             <hr />
             <ul className="social">
-               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
+               <a href={medium} className="button btn project-btn"><i className="fa fa-book"></i>Medium</a>
                <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
             </ul>
          </div>
