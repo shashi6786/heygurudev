@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
+import { Event } from "../Components/Tracking";
 
 class Header extends Component {
   render() {
@@ -34,8 +35,10 @@ class Header extends Component {
             <h3>{description}.</h3>
             <hr />
             <ul className="social">
-               <a href={medium} className="button btn project-btn"><i className="fa fa-book"></i>Medium</a>
-               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+               <a href={medium} onClick={()=> Event("MEDIUM", "Medium blog opened ", "HEADER_PAGE")}
+                  className="button btn project-btn"><i className="fa fa-book"></i>Medium</a>
+               <a href={github} onClick={()=> Event("GITHUB", "Github profile opened", "HEADER_PAGE")}
+                  className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
             </ul>
          </div>
       </div>

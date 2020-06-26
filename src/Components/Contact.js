@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Event} from "./Tracking";
 
 class Contact extends Component {
   render() {
@@ -58,7 +59,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+                     <button className="submit" onClick={()=> Event("CONTACT", "Contact Form Submit Clicked", "CONTACT_PAGE")}>Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Event} from "./Tracking";
 
 class About extends Component {
   render() {
@@ -13,7 +14,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      var linkedIn = this.props.data.linkedIn;
     }
 
     return (
@@ -40,7 +41,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>LinkedIn</a>
+                     <a href={linkedIn} onClick={()=> Event("LINKEDIN", "LinkedIn profile opened ", "ABOUT_PAGE")} className="button"><i className="fa fa-download"></i>LinkedIn</a>
                   </p>
                </div>
             </div>

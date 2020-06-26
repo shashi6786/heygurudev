@@ -8,6 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Certificates from "./Components/Certificates";
+import {PageView, initGA} from './Components/Tracking';
 
 class App extends Component {
 
@@ -43,6 +44,8 @@ class App extends Component {
 
   componentDidMount(){
     this.getResumeData();
+    initGA('UA-170886608-1');
+    PageView();
   }
 
   render() {
