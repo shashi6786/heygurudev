@@ -14,7 +14,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var linkedIn = this.props.data.linkedIn;
+      var resumedownload = this.props.data.resumedownload;
     }
 
     return (
@@ -41,7 +41,8 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={linkedIn} onClick={()=> Event("LINKEDIN", "LinkedIn profile opened ", "ABOUT_PAGE")} className="button"><i className="fa fa-download"></i>LinkedIn</a>
+                     <a href={resumedownload} onClick={()=> Event("LINKEDIN", "LinkedIn Profile opened ", "ABOUT_PAGE")}
+                        className="button"><i className="fa fa-download"></i>LinkedIn</a>
                   </p>
                </div>
             </div>
