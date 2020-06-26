@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Event} from "./Tracking";
+import { Event } from "../Components/Tracking";
 
 class About extends Component {
   render() {
