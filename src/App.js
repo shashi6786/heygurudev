@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
@@ -12,9 +11,6 @@ import {PageView, initGA} from './Components/Tracking';
 
 class App extends Component {
 
-  responseLinkedin(response) {
-    console.log(response)
-  }
   constructor(props){
     super(props);
     this.state = {

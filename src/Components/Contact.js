@@ -85,24 +85,6 @@ class Contact extends Component {
 						   <span>{phone}</span>
 					   </p>
 				   </div>
-
-               <div className="widget widget_tweets">
-                  <h4 className="widget-title"></h4>
-                  <ul id="twitter">
-                     <li>
-                        <span>
-                        <a href="#"></a>
-                        </span>
-                        <b><a href="#"></a></b>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="#"></a>
-                        </span>
-                        <b><a href="#"></a></b>
-                     </li>
-                  </ul>
-		         </div>
             </aside>
       </div>
    </section>
