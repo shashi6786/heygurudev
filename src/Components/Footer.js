@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Hey Guru Dev</li>
+              <li>&copy; Copyright 2020 Hey! Guru Dev</li>
               <li>Design by <a title="Shashi Bhushan" href="https://www.linkedin.com/in/findshashihere/">Shashi Bhushan</a></li>
            </ul>
 
