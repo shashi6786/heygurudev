@@ -992,7 +992,7 @@ footer .social-links {
 }
 footer .social-links li {
     display: inline-block;
-    margin: 0;
+    margin: 18px;
     padding: 0;
     margin-left: 42px;
     color: #F06000;
